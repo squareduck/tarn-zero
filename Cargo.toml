@@ -1,0 +1,9 @@
+[package]
+name = "tarn-zero"
+version = "0.1.0"
+authors = ["squareduck"]
+
+[dependencies]
+tcod = "0.9"
+noise = "0.1.5"
+rand = "0.3.14"
